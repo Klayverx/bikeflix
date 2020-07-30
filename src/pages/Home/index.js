@@ -12,7 +12,7 @@ function Home() {
         <BannerMain
           videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
           url={dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={"Agora todas as profissões estão sendo impactadas com essa nova Inteligência Artificial... literalmente não vai sobrar mais pra ninguém e nesse vídeo é mostrado várias demonstrações do GPT-3 sendo aplicado em diversos campos!"}
+          videoDescription={"Ciclista brasileiro, 2° colocado no ranking da UCI, integrante da Seleção Masculina Brasileira de MTB"}
           />
 
         <Carousel
