@@ -1,183 +1,175 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Brasil Ride",
+      "link": "http://www.brasilride.com.br/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Brasil Ride Ultra Maratona Mtb",
+        "url": "http://www.brasilride.com.br/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "''Não é o que faço, é quem sou'' - Henrique Avancini",
+          "url": "https://youtu.be/0Tf5-JDHY8A?list=RDQM55svt9oQhAs"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Brasil Ride 2017",
+          "url": "https://www.youtube.com/watch?v=ChW1u3jt8ks&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=5"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Brasil Ride",
+          "url": "https://www.youtube.com/watch?v=AhT5p245V_k&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=6"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Brasil Ride 2019",
+          "url": "https://www.youtube.com/watch?v=uLjVWx_NQgk&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Brasil Ride 2018",
+          "url": "https://www.youtube.com/watch?v=zOQFO4wWorY&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=1"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Brasil Ride Canal de Bike",
+          "url": "https://www.youtube.com/watch?v=d8hcCY9odIE&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=3"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Brasil Ride 2019",
+          "url": "https://www.youtube.com/watch?v=LOj3Clow-1w&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=2"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Urubu Racing",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Urubu Racing XCO - Urubu Ecoparque",
+        "url": "https://pedaleiros.com.br/eventos/urubu-racing-xco-2020/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Urubu Racing 2019",
+          "url": "https://www.youtube.com/watch?v=VERpM2Od5Ho"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Urubu Racing",
+          "url": "https://www.youtube.com/watch?v=ptVZQgMVjTA"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Urubu Racing 2018",
+          "url": "https://www.youtube.com/watch?v=HYd8AEQEpnY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Reconhecimento Urubu Racing",
+          "url": "https://www.youtube.com/watch?v=jRNWbzktWX0"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Desafio Brou",
+      "cor": "#1D76B8",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Desafio Brou MTB #NQSF",
+        "url": "https://brouaventuras.com.br/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Desafio Brou MTB",
+          "url": "https://www.youtube.com/watch?v=h5kVUSRPVnk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=2&t=0s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Brutalidade sem freio",
+          "url": "https://www.youtube.com/watch?v=7ZL3d6-Ue-8&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=4&t=0s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Desafio Brou",
+          "url": "https://www.youtube.com/watch?v=-LNAXTg59mk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=3&t=0s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Ultramaratona Brou",
+          "url": "https://www.youtube.com/watch?v=z__5VcaBzzk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=6&t=0s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Tour de France",
+      "cor": "#FFFF01",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Best Moments 2019",
+          "url": "https://www.youtube.com/watch?v=vjci1lf0fj4&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=4&t=0s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Tour de France 2020",
+          "url": "https://www.youtube.com/watch?v=8UFeyqjuYu4&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=5&t=0s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Tour de France 2019",
+          "url": "https://www.youtube.com/watch?v=x6jX0poBhSk&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=6&t=0s"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Route Tour de France",
+          "url": "https://www.youtube.com/watch?v=iqIyUV0mat8&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=2&t=0s"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Paris Roubaix",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Paris-Roubaix 2019",
+          "url": "https://www.youtube.com/watch?v=CNndsq4UCqY&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=4&t=0s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Paris-Roubaix 2018",
+          "url": "https://www.youtube.com/watch?v=vqJwlJJ1Pw0&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=5&t=0s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Paris-Roubaix 2019",
+          "url": "https://www.youtube.com/watch?v=-cfIjaCZ9NM&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=3&t=0s"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Paris-Roubaix",
+          "url": "https://www.youtube.com/watch?v=81cNp576HVY&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=2&t=0s"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Paris-Roubaix",
+          "url": "https://www.youtube.com/watch?v=ZE-s56OP3rs"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Mathieu van der Poel",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Melhor ciclista do mundo",
+        "url": "https://pt.wikipedia.org/wiki/Mathieu_van_der_Poel"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Van der Poel",
+          "url": "https://www.youtube.com/watch?v=huowig8SJ8A&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=3&t=0s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Van der Poel",
+          "url": "https://www.youtube.com/watch?v=qD_263bkmPs&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=6&t=0s"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Van der Poel",
+          "url": "https://www.youtube.com/watch?v=JWkh2glA9f4&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=5&t=0s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Van der Poel",
+          "url": "https://www.youtube.com/watch?v=S7OuDeVbhxs&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=2&t=0s"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Van der Poel",
+          "url": "https://www.youtube.com/watch?v=N-cSLAaFSAE&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=4&t=0s"
+        },
+        {
+          "titulo": "Van der Poel",
+          "url": "https://www.youtube.com/watch?v=rPoxJrO6AAU&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=7&t=0s"
         }
       ]
     }
