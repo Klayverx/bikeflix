@@ -7,12 +7,12 @@ import Button from '../Button';
 
 function Menu() {
     return (
-        <nav className="Menu">
+        <nav className="Menu border-menu border-gradient">
             <Link to="/">
                 <img className="Logo"  src={Logo} alt="Klayflix logo" />
             </Link>
 
-            <Button as={Link} className="ButtonLink" to="/cadastro/video">
+            <Button as={Link} className="ButtonLink border-button border-gradient-button" to="/cadastro/video">
                 Novo vídeo
             </Button>
         </nav>     
