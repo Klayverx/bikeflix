@@ -1,177 +1,177 @@
 {
-  "categorias": [
-    {
-      "titulo": "Brasil Ride",
-      "link": "http://www.brasilride.com.br/",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Brasil Ride Ultra Maratona Mtb",
-        "url": "http://www.brasilride.com.br/"
-      },
-      "videos": [
+    "categorias": [
         {
-          "titulo": "''Não é o que faço, é quem sou'' - Henrique Avancini",
-          "url": "https://youtu.be/0Tf5-JDHY8A?list=RDQM55svt9oQhAs"
+            "titulo": "Brasil Ride",
+            "link": "http://www.brasilride.com.br/",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Brasil Ride Ultra Maratona Mtb",
+                "url": "http://www.brasilride.com.br/"
+            },
+            "videos": [
+                {
+                    "titulo": "''Não é o que faço, é quem sou'' - Henrique Avancini",
+                    "url": "https://youtu.be/0Tf5-JDHY8A?list=RDQM55svt9oQhAs"
+                },
+                {
+                    "titulo": "Brasil Ride 2017",
+                    "url": "https://www.youtube.com/watch?v=ChW1u3jt8ks&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=5"
+                },
+                {
+                    "titulo": "Brasil Ride",
+                    "url": "https://www.youtube.com/watch?v=AhT5p245V_k&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=6"
+                },
+                {
+                    "titulo": "Brasil Ride 2019",
+                    "url": "https://www.youtube.com/watch?v=uLjVWx_NQgk&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=4"
+                },
+                {
+                    "titulo": "Brasil Ride 2018",
+                    "url": "https://www.youtube.com/watch?v=zOQFO4wWorY&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=1"
+                },
+                {
+                    "titulo": "Brasil Ride Canal de Bike",
+                    "url": "https://www.youtube.com/watch?v=d8hcCY9odIE&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=3"
+                },
+                {
+                    "titulo": "Brasil Ride 2019",
+                    "url": "https://www.youtube.com/watch?v=LOj3Clow-1w&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=2"
+                }
+            ]
         },
         {
-          "titulo": "Brasil Ride 2017",
-          "url": "https://www.youtube.com/watch?v=ChW1u3jt8ks&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=5"
+            "titulo": "Desafio Brou",
+            "cor": "#1D76B8",
+            "link_extra": {
+                "text": "Desafio Brou MTB #NQSF",
+                "url": "https://brouaventuras.com.br/"
+            },
+            "videos": [
+                {
+                    "titulo": "Desafio Brou MTB",
+                    "url": "https://www.youtube.com/watch?v=h5kVUSRPVnk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=2&t=0s"
+                },
+                {
+                    "titulo": "Brutalidade sem freio",
+                    "url": "https://www.youtube.com/watch?v=7ZL3d6-Ue-8&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=4&t=0s"
+                },
+                {
+                    "titulo": "Desafio Brou",
+                    "url": "https://www.youtube.com/watch?v=-LNAXTg59mk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=3&t=0s"
+                },
+                {
+                    "titulo": "Ultramaratona Brou",
+                    "url": "https://www.youtube.com/watch?v=z__5VcaBzzk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=6&t=0s"
+                }
+            ]
         },
         {
-          "titulo": "Brasil Ride",
-          "url": "https://www.youtube.com/watch?v=AhT5p245V_k&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=6"
+            "titulo": "Tour de France",
+            "cor": "#FFFF01",
+            "videos": [
+                {
+                    "titulo": "Best Moments 2019",
+                    "url": "https://www.youtube.com/watch?v=vjci1lf0fj4&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=4&t=0s"
+                },
+                {
+                    "titulo": "Tour de France 2020",
+                    "url": "https://www.youtube.com/watch?v=8UFeyqjuYu4&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=5&t=0s"
+                },
+                {
+                    "titulo": "Tour de France 2019",
+                    "url": "https://www.youtube.com/watch?v=x6jX0poBhSk&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=6&t=0s"
+                },
+                {
+                    "titulo": "Route Tour de France",
+                    "url": "https://www.youtube.com/watch?v=iqIyUV0mat8&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=2&t=0s"
+                }
+            ]
         },
         {
-          "titulo": "Brasil Ride 2019",
-          "url": "https://www.youtube.com/watch?v=uLjVWx_NQgk&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=4"
+            "titulo": "Paris Roubaix",
+            "cor": "red",
+            "videos": [
+                {
+                    "titulo": "Paris-Roubaix 2019",
+                    "url": "https://www.youtube.com/watch?v=CNndsq4UCqY&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=4&t=0s"
+                },
+                {
+                    "titulo": "Paris-Roubaix 2018",
+                    "url": "https://www.youtube.com/watch?v=vqJwlJJ1Pw0&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=5&t=0s"
+                },
+                {
+                    "titulo": "Paris-Roubaix 2019",
+                    "url": "https://www.youtube.com/watch?v=-cfIjaCZ9NM&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=3&t=0s"
+                },
+                {
+                    "titulo": "Paris-Roubaix",
+                    "url": "https://www.youtube.com/watch?v=81cNp576HVY&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=2&t=0s"
+                },
+                {
+                    "titulo": "Paris-Roubaix",
+                    "url": "https://www.youtube.com/watch?v=ZE-s56OP3rs"
+                }
+            ]
         },
         {
-          "titulo": "Brasil Ride 2018",
-          "url": "https://www.youtube.com/watch?v=zOQFO4wWorY&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=1"
+            "titulo": "Urubu Racing",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Urubu Racing XCO - Urubu Ecoparque",
+                "url": "https://pedaleiros.com.br/eventos/urubu-racing-xco-2020/"
+            },
+            "videos": [
+                {
+                    "titulo": "Urubu Racing 2019",
+                    "url": "https://www.youtube.com/watch?v=VERpM2Od5Ho"
+                },
+                {
+                    "titulo": "Urubu Racing",
+                    "url": "https://www.youtube.com/watch?v=ptVZQgMVjTA"
+                },
+                {
+                    "titulo": "Urubu Racing 2018",
+                    "url": "https://www.youtube.com/watch?v=HYd8AEQEpnY"
+                },
+                {
+                    "titulo": "Reconhecimento Urubu Racing",
+                    "url": "https://www.youtube.com/watch?v=jRNWbzktWX0"
+                }
+            ]
         },
         {
-          "titulo": "Brasil Ride Canal de Bike",
-          "url": "https://www.youtube.com/watch?v=d8hcCY9odIE&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=3"
-        },
-        {
-          "titulo": "Brasil Ride 2019",
-          "url": "https://www.youtube.com/watch?v=LOj3Clow-1w&list=PLpJ4zFPJd9tbcc2MwaE1DrMwqWXUUcZEl&index=2"
-        }       
-      ]
-    },
-    {
-      "titulo": "Urubu Racing",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Urubu Racing XCO - Urubu Ecoparque",
-        "url": "https://pedaleiros.com.br/eventos/urubu-racing-xco-2020/"
-      },
-      "videos": [
-        {
-          "titulo": "Urubu Racing 2019",
-          "url": "https://www.youtube.com/watch?v=VERpM2Od5Ho"
-        },
-        {
-          "titulo": "Urubu Racing",
-          "url": "https://www.youtube.com/watch?v=ptVZQgMVjTA"
-        },
-        {
-          "titulo": "Urubu Racing 2018",
-          "url": "https://www.youtube.com/watch?v=HYd8AEQEpnY"
-        },
-        {
-          "titulo": "Reconhecimento Urubu Racing",
-          "url": "https://www.youtube.com/watch?v=jRNWbzktWX0"
+            "titulo": "Mathieu van der Poel",
+            "cor": "#6b5be2",
+            "link_extra": {
+                "text": "Melhor ciclista do mundo",
+                "url": "https://pt.wikipedia.org/wiki/Mathieu_van_der_Poel"
+            },
+            "videos": [
+                {
+                    "titulo": "Van der Poel",
+                    "url": "https://www.youtube.com/watch?v=huowig8SJ8A&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=3&t=0s"
+                },
+                {
+                    "titulo": "Van der Poel",
+                    "url": "https://www.youtube.com/watch?v=qD_263bkmPs&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=6&t=0s"
+                },
+                {
+                    "titulo": "Van der Poel",
+                    "url": "https://www.youtube.com/watch?v=JWkh2glA9f4&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=5&t=0s"
+                },
+                {
+                    "titulo": "Van der Poel",
+                    "url": "https://www.youtube.com/watch?v=S7OuDeVbhxs&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=2&t=0s"
+                },
+                {
+                    "titulo": "Van der Poel",
+                    "url": "https://www.youtube.com/watch?v=N-cSLAaFSAE&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=4&t=0s"
+                },
+                {
+                    "titulo": "Van der Poel",
+                    "url": "https://www.youtube.com/watch?v=rPoxJrO6AAU&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=7&t=0s"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "titulo": "Desafio Brou",
-      "cor": "#1D76B8",
-      "link_extra": {
-        "text": "Desafio Brou MTB #NQSF",
-        "url": "https://brouaventuras.com.br/"
-      },
-      "videos": [
-        {
-          "titulo": "Desafio Brou MTB",
-          "url": "https://www.youtube.com/watch?v=h5kVUSRPVnk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=2&t=0s"
-        },
-        {
-          "titulo": "Brutalidade sem freio",
-          "url": "https://www.youtube.com/watch?v=7ZL3d6-Ue-8&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=4&t=0s"
-        },
-        {
-          "titulo": "Desafio Brou",
-          "url": "https://www.youtube.com/watch?v=-LNAXTg59mk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=3&t=0s"
-        },
-        {
-          "titulo": "Ultramaratona Brou",
-          "url": "https://www.youtube.com/watch?v=z__5VcaBzzk&list=PLpJ4zFPJd9tYHgSxkINTa9PfNT0MdNcxS&index=6&t=0s"
-        }
-      ]
-    },
-    {
-      "titulo": "Tour de France",
-      "cor": "#FFFF01",
-      "videos": [
-        {
-          "titulo": "Best Moments 2019",
-          "url": "https://www.youtube.com/watch?v=vjci1lf0fj4&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=4&t=0s"
-        },
-        {
-          "titulo": "Tour de France 2020",
-          "url": "https://www.youtube.com/watch?v=8UFeyqjuYu4&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=5&t=0s"
-        },
-        {
-          "titulo": "Tour de France 2019",
-          "url": "https://www.youtube.com/watch?v=x6jX0poBhSk&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=6&t=0s"
-        },
-        {
-          "titulo": "Route Tour de France",
-          "url": "https://www.youtube.com/watch?v=iqIyUV0mat8&list=PLpJ4zFPJd9taz8imWvPvQEM67lQDbz9By&index=2&t=0s"
-        }
-      ]
-    },
-    {
-      "titulo": "Paris Roubaix",
-      "cor": "red",
-      "videos": [
-        {
-          "titulo": "Paris-Roubaix 2019",
-          "url": "https://www.youtube.com/watch?v=CNndsq4UCqY&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=4&t=0s"
-        },
-        {
-          "titulo": "Paris-Roubaix 2018",
-          "url": "https://www.youtube.com/watch?v=vqJwlJJ1Pw0&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=5&t=0s"
-        },
-        {
-          "titulo": "Paris-Roubaix 2019",
-          "url": "https://www.youtube.com/watch?v=-cfIjaCZ9NM&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=3&t=0s"
-        },
-        {
-          "titulo": "Paris-Roubaix",
-          "url": "https://www.youtube.com/watch?v=81cNp576HVY&list=PLpJ4zFPJd9tb6bUgqYeYsdiyfZ6xPxxsy&index=2&t=0s"
-        },
-        {
-          "titulo": "Paris-Roubaix",
-          "url": "https://www.youtube.com/watch?v=ZE-s56OP3rs"
-        }
-      ]
-    },
-    {
-      "titulo": "Mathieu van der Poel",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Melhor ciclista do mundo",
-        "url": "https://pt.wikipedia.org/wiki/Mathieu_van_der_Poel"
-      },
-      "videos": [
-        {
-          "titulo": "Van der Poel",
-          "url": "https://www.youtube.com/watch?v=huowig8SJ8A&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=3&t=0s"
-        },
-        {
-          "titulo": "Van der Poel",
-          "url": "https://www.youtube.com/watch?v=qD_263bkmPs&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=6&t=0s"
-        },
-        {
-          "titulo": "Van der Poel",
-          "url": "https://www.youtube.com/watch?v=JWkh2glA9f4&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=5&t=0s"
-        },
-        {
-          "titulo": "Van der Poel",
-          "url": "https://www.youtube.com/watch?v=S7OuDeVbhxs&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=2&t=0s"
-        },
-        {
-          "titulo": "Van der Poel",
-          "url": "https://www.youtube.com/watch?v=N-cSLAaFSAE&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=4&t=0s"
-        },
-        {
-          "titulo": "Van der Poel",
-          "url": "https://www.youtube.com/watch?v=rPoxJrO6AAU&list=PLpJ4zFPJd9tYvDEl76oNKL_6tUC1D8hVb&index=7&t=0s"
-        }
-      ]
-    }
-  ]
+    ]
 }
