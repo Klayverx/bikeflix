@@ -2,7 +2,7 @@
   <img src=".github/bikeflix-logo.png" alt="Bikeflix logo" width="180px">
 </div>
 
-## Stats
+## Bikeflix
 
 [![Author](https://img.shields.io/badge/author-Klayverx-FEDE00?style=flat-square)](https://github.com/Klayverx)
 [![Languages](https://img.shields.io/github/languages/count/Klayverx/bikeflix?color=%009C3B&style=flat-square)](#)
